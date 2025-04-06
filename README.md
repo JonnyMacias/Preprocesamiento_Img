@@ -31,3 +31,4 @@ El sistema toma como entrada una imagen que contiene un número, y realiza los s
 
 - 🖼️ **Imagen del contorno** del número procesado, útil para visualización o análisis estructural.
 - 📄 **Archivo `.txt`** con los datos del tensor 4D correspondiente a la imagen preprocesada.
+- 📂 Todo esto es almacenado automáticamente en la carpeta ImgPreprocesadas/, donde cada número tiene su propia subcarpeta nombrada como Contorno_<número> para facilitar la organización de datos.
